@@ -1,0 +1,72 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[15],{
+
+/***/ "./api/classes/bits_src.TemplateRenderer.md":
+/*!**************************************************!*\
+  !*** ./api/classes/bits_src.TemplateRenderer.md ***!
+  \**************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _bits_src_TemplateRenderer_md_vue_type_template_id_1b9aa0d0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0& */ "./api/classes/bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _bits_src_TemplateRenderer_md_vue_type_template_id_1b9aa0d0___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _bits_src_TemplateRenderer_md_vue_type_template_id_1b9aa0d0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./api/classes/bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0&":
+/*!*********************************************************************************!*\
+  !*** ./api/classes/bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0& ***!
+  \*********************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_vuepress_core_node_modules_cache_vuepress_cacheIdentifier_4b61893c_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_ref_1_1_node_modules_vuepress_markdown_loader_index_js_ref_1_2_bits_src_TemplateRenderer_md_vue_type_template_id_1b9aa0d0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/@vuepress/core/node_modules/.cache/vuepress","cacheIdentifier":"4b61893c-vue-loader-template"}!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??ref--1-1!../../node_modules/@vuepress/markdown-loader??ref--1-2!./bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0& */ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/@vuepress/core/node_modules/.cache/vuepress\",\"cacheIdentifier\":\"4b61893c-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./node_modules/@vuepress/markdown-loader/index.js?!./api/classes/bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_vuepress_core_node_modules_cache_vuepress_cacheIdentifier_4b61893c_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_ref_1_1_node_modules_vuepress_markdown_loader_index_js_ref_1_2_bits_src_TemplateRenderer_md_vue_type_template_id_1b9aa0d0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_vuepress_core_node_modules_cache_vuepress_cacheIdentifier_4b61893c_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_ref_1_1_node_modules_vuepress_markdown_loader_index_js_ref_1_2_bits_src_TemplateRenderer_md_vue_type_template_id_1b9aa0d0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/@vuepress/core/node_modules/.cache/vuepress\",\"cacheIdentifier\":\"4b61893c-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./node_modules/@vuepress/markdown-loader/index.js?!./api/classes/bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0&":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/@vuepress/core/node_modules/.cache/vuepress","cacheIdentifier":"4b61893c-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??ref--1-1!./node_modules/@vuepress/markdown-loader??ref--1-2!./api/classes/bits_src.TemplateRenderer.md?vue&type=template&id=1b9aa0d0& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('ContentSlotsDistributor',{attrs:{"slot-key":_vm.$parent.slotKey}},[_c('h1',{attrs:{"id":"class-templaterenderer"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#class-templaterenderer"}},[_vm._v("#")]),_vm._v(" Class: TemplateRenderer")]),_vm._v(" "),_c('p',[_c('RouterLink',{attrs:{"to":"/api/modules/bits_src.html"}},[_vm._v("bits/src")]),_vm._v(".TemplateRenderer")],1),_vm._v(" "),_c('h2',{attrs:{"id":"constructors"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#constructors"}},[_vm._v("#")]),_vm._v(" Constructors")]),_vm._v(" "),_c('h3',{attrs:{"id":"constructor"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#constructor"}},[_vm._v("#")]),_vm._v(" constructor")]),_vm._v(" "),_c('p',[_vm._v("• "),_c('strong',[_vm._v("new TemplateRenderer")]),_vm._v("("),_c('code',[_vm._v("adapter?")]),_vm._v(")")]),_vm._v(" "),_c('h4',{attrs:{"id":"parameters"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#parameters"}},[_vm._v("#")]),_vm._v(" Parameters")]),_vm._v(" "),_c('table',[_c('thead',[_c('tr',[_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Name")]),_vm._v(" "),_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Type")])])]),_vm._v(" "),_c('tbody',[_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("adapter?")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_c('RouterLink',{attrs:{"to":"/api/interfaces/bits_src.ITemplateRendererAdapter.html"}},[_c('code',[_vm._v("ITemplateRendererAdapter")])])],1)])])]),_vm._v(" "),_c('h4',{attrs:{"id":"defined-in"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#defined-in"}},[_vm._v("#")]),_vm._v(" Defined in")]),_vm._v(" "),_c('p',[_vm._v("demo/node_modules/@labor-digital/bits/src/Core/Template/TemplateRenderer.ts:28")]),_vm._v(" "),_c('h2',{attrs:{"id":"properties"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#properties"}},[_vm._v("#")]),_vm._v(" Properties")]),_vm._v(" "),_c('h3',{attrs:{"id":"adapter"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#adapter"}},[_vm._v("#")]),_vm._v(" _adapter")]),_vm._v(" "),_c('p',[_vm._v("• "),_c('code',[_vm._v("Protected")]),_vm._v(" "),_c('strong',[_vm._v("_adapter")]),_vm._v(": "),_c('RouterLink',{attrs:{"to":"/api/interfaces/bits_src.ITemplateRendererAdapter.html"}},[_c('code',[_vm._v("ITemplateRendererAdapter")])])],1),_vm._v(" "),_c('h4',{attrs:{"id":"defined-in-2"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#defined-in-2"}},[_vm._v("#")]),_vm._v(" Defined in")]),_vm._v(" "),_c('p',[_vm._v("demo/node_modules/@labor-digital/bits/src/Core/Template/TemplateRenderer.ts:26")]),_vm._v(" "),_c('h2',{attrs:{"id":"methods"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#methods"}},[_vm._v("#")]),_vm._v(" Methods")]),_vm._v(" "),_c('h3',{attrs:{"id":"makefallbackhash"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#makefallbackhash"}},[_vm._v("#")]),_vm._v(" makeFallbackHash")]),_vm._v(" "),_c('p',[_vm._v("▸ "),_c('code',[_vm._v("Protected")]),_vm._v(" "),_c('strong',[_vm._v("makeFallbackHash")]),_vm._v("("),_c('code',[_vm._v("template")]),_vm._v("): "),_c('code',[_vm._v("string")])]),_vm._v(" "),_c('p',[_vm._v("Generates a simple, insecure hash for the template if none was provided")]),_vm._v(" "),_c('h4',{attrs:{"id":"parameters-2"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#parameters-2"}},[_vm._v("#")]),_vm._v(" Parameters")]),_vm._v(" "),_c('table',[_c('thead',[_c('tr',[_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Name")]),_vm._v(" "),_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Type")])])]),_vm._v(" "),_c('tbody',[_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("template")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("string")])])])])]),_vm._v(" "),_c('h4',{attrs:{"id":"returns"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#returns"}},[_vm._v("#")]),_vm._v(" Returns")]),_vm._v(" "),_c('p',[_c('code',[_vm._v("string")])]),_vm._v(" "),_c('h4',{attrs:{"id":"defined-in-3"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#defined-in-3"}},[_vm._v("#")]),_vm._v(" Defined in")]),_vm._v(" "),_c('p',[_vm._v("demo/node_modules/@labor-digital/bits/src/Core/Template/TemplateRenderer.ts:59")]),_vm._v(" "),_c('hr'),_vm._v(" "),_c('h3',{attrs:{"id":"render"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#render"}},[_vm._v("#")]),_vm._v(" render")]),_vm._v(" "),_c('p',[_vm._v("▸ "),_c('strong',[_vm._v("render")]),_vm._v("("),_c('code',[_vm._v("template")]),_vm._v(", "),_c('code',[_vm._v("data?")]),_vm._v(", "),_c('code',[_vm._v("hash?")]),_vm._v(", "),_c('code',[_vm._v("adapter?")]),_vm._v("): "),_c('code',[_vm._v("string")])]),_vm._v(" "),_c('p',[_vm._v("Renders a template string using either the provided or default adapter")]),_vm._v(" "),_c('h4',{attrs:{"id":"parameters-3"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#parameters-3"}},[_vm._v("#")]),_vm._v(" Parameters")]),_vm._v(" "),_c('table',[_c('thead',[_c('tr',[_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Name")]),_vm._v(" "),_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Type")]),_vm._v(" "),_c('th',{staticStyle:{"text-align":"left"}},[_vm._v("Description")])])]),_vm._v(" "),_c('tbody',[_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("template")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("string")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_vm._v("The template string that should be rendered")])]),_vm._v(" "),_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("data?")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("PlainObject")]),_vm._v("<"),_c('code',[_vm._v("any")]),_vm._v(">")]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_vm._v("The data to be provided to the view for being rendered")])]),_vm._v(" "),_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("hash?")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("string")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_vm._v("A unique hash to identify the template (to avoid recompilation for some engines).              If omitted a fallback hash will be generated based on the template content")])]),_vm._v(" "),_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_c('code',[_vm._v("adapter?")])]),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_c('RouterLink',{attrs:{"to":"/api/interfaces/bits_src.ITemplateRendererAdapter.html"}},[_c('code',[_vm._v("ITemplateRendererAdapter")])])],1),_vm._v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_vm._v("Optional alternative adapter to use for this specific rendering process")])])])]),_vm._v(" "),_c('h4',{attrs:{"id":"returns-2"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#returns-2"}},[_vm._v("#")]),_vm._v(" Returns")]),_vm._v(" "),_c('p',[_c('code',[_vm._v("string")])]),_vm._v(" "),_c('h4',{attrs:{"id":"defined-in-4"}},[_c('a',{staticClass:"header-anchor",attrs:{"href":"#defined-in-4"}},[_vm._v("#")]),_vm._v(" Defined in")]),_vm._v(" "),_c('p',[_vm._v("demo/node_modules/@labor-digital/bits/src/Core/Template/TemplateRenderer.ts:45")])])}
+var staticRenderFns = []
+
+
+
+/***/ })
+
+}]);
+//# sourceMappingURL=15.5504027b.js.map
